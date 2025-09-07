@@ -29,3 +29,17 @@ Tecnologias
 Linguagem: Python 3
 
 Armazenamento: Arquivo de texto (.txt) no formato JSON.
+
+Funcionalidades Futuras
+
+O projeto da agenda está em constante evolução. Futuramente, planejo implementar as seguintes funcionalidades para torná-lo ainda mais útil e robusto:
+
+Validação de Dados: Adicionar validações para garantir que a data e a hora sejam inseridas em um formato correto (YYYY-MM-DD e HH:MM). Isso evitará erros no programa e tornará a experiência do usuário mais confiável.
+
+Exportação de Agenda: Permitir que o usuário exporte todos os compromissos para um arquivo de texto simples ou CSV. Isso pode ser útil para backup ou para uso em outras aplicações.
+
+Exclusão em Lote: Adicionar a opção de deletar múltiplos compromissos de uma só vez, usando o número de identificação.
+
+Interface Gráfica (GUI): Migrar o projeto de uma interface de linha de comando para uma interface gráfica de usuário, utilizando bibliotecas como Tkinter ou PyQt. Isso tornará o aplicativo mais intuitivo e visualmente atraente.
+
+Sinta-se à vontade para sugerir outras ideias ou ajudar na implementação de qualquer uma dessas funcionalidades!
